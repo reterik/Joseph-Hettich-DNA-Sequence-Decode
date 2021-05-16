@@ -1,0 +1,2 @@
+- name: Sync Git Branch Action
+  uses: zent-contrib/sync-git-branch@v1.0.0
