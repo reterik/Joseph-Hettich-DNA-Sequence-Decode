@@ -1,3 +1,41 @@
 version https://git-lfs.github.com/spec/v1
 oid sha256:b25a3d0c6abfe30347dd77beec31e445718f19c9c180e2f9cbcce0c1712996f3
 size 74
+
+Decentralized datastore on file coin for full decode:
+
+https://ipfs.io/ipfs/bafybeidt2jqatiymrvqb2xvpuau2fvcgfsmmv6wpvels724kcexiqtav5u
+https://ipfs.io/ipfs/bafybeic2ofjgv5jnb3t7gs6pmb4vjlqg5scnqr3zxwwottm6py3k6w5bmq
+https://ipfs.io/ipfs/bafybeid7uznwwou6kzo4ekfx6fayzyjvgqltuloeaaeapvt7hax226jcd4
+https://ipfs.io/ipfs/bafybeibewi62z6hy7gtpfbc5edecuzphmvclm6arya7d6isgo5oziugxy4
+https://ipfs.io/ipfs/bafybeiflrvt2i56kknwwagrscfp57caz2d3k6ijmtxdtoiyio67tv342z4
+https://ipfs.io/ipfs/bafybeif75nyfoaw2mo2o622fu2ivfhw4lb5v2poqqtpktdvspvtpoiizku
+https://ipfs.io/ipfs/bafybeihpvcjimjfhn3yhlt7nbek5nfcjvmd7lbrldfxcb2l2ikm7yls4ru
+https://ipfs.io/ipfs/bafybeibffwhhtb5lcprwjbfyvuylyamydy3qmi7xxghusimax5gpa6vnam
+https://ipfs.io/ipfs/bafybeihp6uf7iso65wkne5hawval36bwmd3i5ns6bhoynr2777knamotiq
+https://ipfs.io/ipfs/bafybeigzrf42mhu7gtawy6xcea7t4iaydzhfumg2647zhd7cw4ruwdid5u
+https://ipfs.io/ipfs/bafybeiekh466gskydx76anjmpeophm7q5xluoroff6kbikevwtuuxvgdca
+https://ipfs.io/ipfs/bafybeifem5opduoll62r63f6mt4ifr6yvxjthosnor4izzvbdige77chbq
+https://ipfs.io/ipfs/bafybeihnrtl2vvxn2lzv6ksb7qqdtz2te5audud35kd2ybhfph7pxm3npy
+https://ipfs.io/ipfs/bafybeig2czqvb3k23p6cmhbu5qjp2cg4lem4befxfefjyeslr5d7ai5ax4
+https://ipfs.io/ipfs/bafybeidyneywyxphxewo55xxulyhdm7pi5qtnfypwobxr6ervqkrdudnau
+https://ipfs.io/ipfs/bafybeiflc7peox7jjeo7u3nt44tdrcy7dfd3j3l5ks6uzao3o7uqzmlmcm
+https://ipfs.io/ipfs/bafybeidtgppdfb4jeyubfhorpxiaqfaxemilrjtqpzi4rwgbq6vokalfji
+https://ipfs.io/ipfs/bafybeicbob6f66avr53omqhvyegtoarfgt2dgjx6fagzoz5njs4cmi3tmq
+https://ipfs.io/ipfs/bafybeifhzhdcfmelfhakcwsqllwjp7yrmi3kf5jbxot4eovezr7pntuvdm
+https://ipfs.io/ipfs/bafybeifahqgtrr4nggtfgtjzqhepz5extw5y5kdw3pfd5ud7nzh6widtdi
+https://ipfs.io/ipfs/bafybeigo4lrvzxneq233lpys2tlhi7rnhctumacxmnugbzhqam6f2r7hny
+https://ipfs.io/ipfs/bafybeiclhss6cnwglxn7jc5gsscfcem7rvsyui7mleutfosqf7f77e63be
+https://ipfs.io/ipfs/bafybeihbxpnm5n36htszxgwfv7u2e32d5fhv26xwwmjjqqmzqkeivapovy
+https://ipfs.io/ipfs/bafybeicc4fz3ypuclohpvt72f2kjnclvflzjg7vrv57k5s3amob4fl2lqu
+https://ipfs.io/ipfs/bafybeih5uen5qd22mauvc6ldttlw35oaagfakgae2wrfiv6tykwirl3vne
+https://ipfs.io/ipfs/bafybeigugho62atomuyaoxgzflzqor3uoo56wc2racyruojzsiwiyka2ou
+https://ipfs.io/ipfs/bafybeih45wtmg2mgomhdfnyb65ks243y7yrsmscjcr44nkf3uhyk5bleoe
+https://ipfs.io/ipfs/bafybeiah5w6bk2och4qxhir7fnub4ex6yyiw4axgpgcabtieida4dxtyvm
+https://ipfs.io/ipfs/bafybeibbzaw2hvyfpmvyouzjfwwtzcl5kuel2zkphd3qwbforcndxzm2o4
+https://ipfs.io/ipfs/bafybeibyrvsrd6ryjsvw4nj2ffjtfrli5hjsokbfpkn2iqibxtrjuc6ffe
+https://ipfs.io/ipfs/bafybeighwteia4bz4nvl6i7dnmmrp237m5cpss5mdncm4d4sbmyvjyy3wa
+https://ipfs.io/ipfs/bafybeicjduh25vekya5ju2efu77bty5b7kgkudn7yqt4m4pmflk5l7ic2q
+https://ipfs.io/ipfs/bafybeia6jad5gz4w3mlcllrhezb6k6yq5b6xbrrcwpthgbvncbec66ibeq
+https://ipfs.io/ipfs/bafybeigq4pyucyzzlfx2xw3rwrwafc72bytkwtcng2q7y7u6ugtn2lx7gy
+https://ipfs.io/ipfs/bafybeieuzbovrp4qafqz6bubjec7645z2fasuhjekvr4b7fttgc6vsfway
